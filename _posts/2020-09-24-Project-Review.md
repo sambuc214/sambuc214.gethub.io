@@ -1,4 +1,6 @@
-#Inventing Abstraction DH Review
+# Inventing Abstraction DH Review
+
+
 
 
 **Project:** 
@@ -11,11 +13,11 @@ Maggie Lederer, Senior Producer
 https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?page=connections 
 
 
-  Inventing Abstraction 1910-1925 is a virtual and interactive web map that displays the artists that contributed to the invention of abstract art. The map highlights the major artists involved at the start of the movement: Vasily Kandinsky, Frantisek Kupka, Francis Picabia, and Robert Delaunay, and then traces their influence on a network of other artists throughout the concept's beginnings.
+    Inventing Abstraction 1910-1925 is a virtual and interactive web map that displays the artists that contributed to the invention of abstract art. The map highlights the major artists involved at the start of the movement: Vasily Kandinsky, Frantisek Kupka, Francis Picabia, and Robert Delaunay, and then traces their influence on a network of other artists throughout the concept's beginnings.
 
 ![InventingAbstraction](https://sambuc214.github.io/sambuchholz/images/InventingAbstraction.png)
 
-  The web displays the most influential artists and their pieces into one cohesive collection. It does not only include traditional media such as painting, but mix media, sculptures, music, books, films, dance, and photography. This wide range of media allows for the project to act as an in depth search into the invention of abstraction. The project acts as a wonderful base for beginners who wish to discover more and delve deeper into the world of abstract art. 
+    The web displays the most influential artists and their pieces into one cohesive collection. It does not only include traditional media such as painting, but mix media, sculptures, music, books, films, dance, and photography. This wide range of media allows for the project to act as an in depth search into the invention of abstraction. The project acts as a wonderful base for beginners who wish to discover more and delve deeper into the world of abstract art. 
 
   The project is readily accessible to the public and is a digital edition of the MoMA Galleries in person exhibition. A ‘checklist’ is provided on the site that allows viewers to see a breakdown of all of the pieces of art in simple terms and acts as a guide throughout the web.
 
