@@ -3,13 +3,17 @@
 
 **Project:** 
 Inventing Abstraction 1910-1925
+
 **Project Director(s):**
 Maggie Lederer, Senior Producer
+
 **Project URL:**
 https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?page=connections 
 
 
 Inventing Abstraction 1910-1925 is a virtual and interactive web map that displays the artists that contributed to the invention of abstract art. The map highlights the major artists involved at the start of the movement: Vasily Kandinsky, Frantisek Kupka, Francis Picabia, and Robert Delaunay, and then traces their influence on a network of other artists throughout the concept's beginnings.
+
+![InventingAbstraction](https://sambuc214.github.io/sambuchholz/images/profile.jpeg)
 
 The web displays the most influential artists and their pieces into one cohesive collection. It does not only include traditional media such as painting, but mix media, sculptures, music, books, films, dance, and photography. This wide range of media allows for the project to act as an in depth search into the invention of abstraction. The project acts as a wonderful base for beginners who wish to discover more and delve deeper into the world of abstract art. 
 
