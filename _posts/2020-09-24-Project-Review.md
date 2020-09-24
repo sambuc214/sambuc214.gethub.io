@@ -25,7 +25,11 @@ https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?page=co
 
   The layout is incredibly aesthetic and complex to the eye, yet the tools provided such as the zoom function and the interactivity of clicking on each artist, makes the project easy to approach and navigate. It’s a very simple design, with the web being the only truly interactive part, while the remaining information is in written format, including the information on the artists once the user clicks on one. It would have been beneficial to include hyperlinks in the artist’s bio going out to informative pages about the artists or other exhibitions they’ve been a part of. This would have given the audience a chance to explore other sources and not just the web with its limited information.
 
-  The web itself can seem overwhelming, however once you choose an artist to read about, it zooms you in to just that specific artist and whichever other artists they are connected with. The project also provides pictures of each artists’ work and, when clicked on, the images enlarge for closer inspection. While the written information provided on the artists is full bodied and well researched, there is only text on the 13 main artists. By not including any information on the remaining artists, it’s difficult for the audience to comprehend what they are seeing when the map establishes connections between artists.
+  The web itself can seem overwhelming, however once you choose an artist to read about, it zooms you in to just that specific artist and whichever other artists they are connected with. The project also provides pictures of each artists’ work and, when clicked on, the images enlarge for closer inspection. 
+  
+![InventingAbstraction](https://sambuc214.github.io/sambuchholz/images/Picasso.png)
+
+  While the written information provided on the artists is full bodied and well researched, there is only text on the 13 main artists. By not including any information on the remaining artists, it’s difficult for the audience to comprehend what they are seeing when the map establishes connections between artists.
 
   While the web is a well-put together construction showing artistic connections, it is difficult to see the spread of abstraction. It would be more clear to the audience if a timeline was added for each artist that gives a background of the history rather than just information about the artist. 
 
