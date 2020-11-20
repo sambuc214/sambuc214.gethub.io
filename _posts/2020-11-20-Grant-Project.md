@@ -11,7 +11,9 @@ Even after I conducted my research, my project topic and main ideas have not wav
 
 The research has not been overall difficult for this project. Monet, Van Gogh, and Picasso are well known and sought after artists both in the scholarly art world and in everyday life. There have been a slew of sources documenting their travels and personal accomplishments so finding the information I need to create the project’s map and timeline has not been a problem.
 
-I was inspired by the mapping project [The Van Gogh Route](https://www.vangoghroute.com/) created by the Judith de Bruijn Art Projects. They used a similar method of mapping, however, they focused solely on Van Gogh rather than other influential artists during that time period. In doing so, the Route is able to incorporate a “walking trail” for the user that shows specific destinations for each city Van Gogh visited. This established an incredibly in depth and detailed outline of Van Gogh’s travels, for it goes as far as listing specific buildings the artists frequented. Below I have included a screenshot of the Route's homepage and ma
+I was inspired by the mapping project [The Van Gogh Route](https://www.vangoghroute.com/) created by the Judith de Bruijn Art Projects. They used a similar method of mapping, however, they focused solely on Van Gogh rather than other influential artists during that time period. In doing so, the Route is able to incorporate a “walking trail” for the user that shows specific destinations for each city Van Gogh visited. This established an incredibly in depth and detailed outline of Van Gogh’s travels, for it goes as far as listing specific buildings the artists frequented. Below I have included a screenshot of the Route's homepage and map.
+
+![Van Gogh Route Homepage](https://sambuc214.github.io/sambuchholz/images/VanGoghRoute.jpeg)
 
 Although this information is valuable, my project will look at the three artist's travels from a broader perspective. I will use the same methods, but act as a “one-stop-shop” for users who are curious about three of the most notable painters and their life travels on a more general level.
 
