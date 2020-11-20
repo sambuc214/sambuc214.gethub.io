@@ -1,7 +1,7 @@
 # Grant Project Reflection Blog
 
 
-My grant project titled “An Artistic Journey: Mapping Impressionistic Travels,” is a website centered around tracking the travels and correlated works of art of famous painters during the late 19th century, specifically: Monet, Van Gogh, and Picasso. The main focus of the site will be a mapping system that shows the various paths of movement of these three artists across their lifespan. 
+	My grant project titled “An Artistic Journey: Mapping Impressionistic Travels,” is a website centered around tracking the travels and correlated works of art of famous painters during the late 19th century, specifically: Monet, Van Gogh, and Picasso. The main focus of the site will be a mapping system that shows the various paths of movement of these three artists across their lifespan. 
 
 Each artist will have a designated color for their path that correlates with a personal timeline. Using an interactive element on the map, the user will be able to click on the different destinations to view what famous paintings were created during the artist's time there. The images of the paintings will be taken from museums such as The Museum of the Art Institute of Chicago, the Solomon R. Guggenheim Museum in New York and several others. 
 
